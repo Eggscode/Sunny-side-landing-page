@@ -14,6 +14,14 @@
     height: 600px;
 }
 
+.logo{
+    height:25px;
+}
+
+.arrow{
+    height:80px;
+}
+
 .nav-links{
     display: flex;
     justify-content: space-between;
